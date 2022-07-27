@@ -24,14 +24,14 @@ global.APIKeys = {
 global.owner = ['94765515432']
 global.premium = ['94765515432']
 global.ownernomer = '94765515432'
-global.ownername = 'ᴅɪʟᴜᴋᴀ '
-global.botname = 'ᴅɪʟᴜᴋᴀ MD BOT'
-global.footer = 'VIHANGA MD'
+global.ownername = 'Diluka'
+global.botname = 'Diluka MD BOT'
+global.footer = 'Diluka MD'
 global.cap = '*Genarated By Diluka Md*'
 global.ig = 'https://github.com/Dilukabot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://wa.me/94765515432?text=hi_bot'
+global.sc = 'http://wa.me/94765515432?text=hi'
+global.myweb = 'https://chat.whatsapp.com/LHYL1brf5AZ0AudBjbk1Ge'
 global.packname = 'Diluka Md Sticker Bot'
 global.author = 'Diluka'
 global.autobio = 'true'
@@ -47,7 +47,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'ටිකක් ඉන්න...',
-    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
+    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි 🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
